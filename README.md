@@ -34,7 +34,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **MongoDB**
 
 
-[## 🎯 Areas of Expertise
+##  🎯 [Areas of Expertise
 ](https://github.com/mairamelo26/mairamelo26/blob/main/expertise.md)
 
 ## 🌱 Currently Learning
@@ -44,7 +44,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **ML Engineering Pipelines**
 - **Data Mesh Concepts**
 
-[## 💼 Professional Highlights](https://github.com/mairamelo26/mairamelo26/blob/main/career.md)
+## 💼 [Professional Highlights](https://github.com/mairamelo26/mairamelo26/blob/main/career.md)
 
 ## 🎓 Education & Certifications
 
@@ -58,7 +58,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **AWS Cloud Practitioner Essentials**
 - **Kepner-Tregoe Resolve**
 
-[## 📈 Professional Philosophy
+## 📈 [Professional Philosophy
 ](https://github.com/mairamelo26/mairamelo26/blob/main/philosophy.md)
 
 ## 📫 Let's Connect!

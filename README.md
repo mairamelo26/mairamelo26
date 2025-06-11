@@ -34,8 +34,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **MongoDB**
 
 
-##  🎯 [Areas of Expertise
-](https://github.com/mairamelo26/mairamelo26/blob/main/expertise.md)
+##  🎯 [Areas of Expertise](https://github.com/mairamelo26/mairamelo26/blob/main/expertise.md)
 
 ## 🌱 Currently Learning
 

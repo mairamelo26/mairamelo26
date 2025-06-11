@@ -6,6 +6,11 @@
 📍 São Paulo, Brazil  
 🌍 International experience across Brazil, Portugal, Spain, and Austria
 
+## 📚 Summary
+
+- [About Me](#-about-me)
+- [Tech Stack](#-current-tech-stack)
+
 ## 🚀 About Me
 
 Distinguished senior Information Systems professional with **15+ years of experience** orchestrating mission-critical data infrastructure and driving innovation across organizations. I specialize in **database management, cloud computing, and data engineering**, with a proven track record of delivering transformative results that align technology solutions with business goals.

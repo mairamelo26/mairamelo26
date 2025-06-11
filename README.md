@@ -44,7 +44,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **ML Engineering Pipelines**
 - **Data Mesh Concepts**
 
-## 💼 [Professional Highlights](https://github.com/mairamelo26/mairamelo26/blob/main/career.md)
+💼 [Professional Highlights] https://github.com/mairamelo26/mairamelo26/blob/main/career.md)
 
 ## 🎓 Education & Certifications
 

@@ -10,6 +10,12 @@
 
 - [About Me](#-about-me)
 - [Tech Stack](#%EF%B8%8F-current-tech-stack)
+- [Expertise](#-areas-of-expertise)
+- [Current Learning](#-currently-learning)
+- [Professional Highlights](#-professional-highlights)
+- [Career Timeline](#-carreer-timeline)
+- [Education/Certifications](#-education--certifications)
+- [Contact](#-lets-connect)
 
 ## 🚀 About Me
 

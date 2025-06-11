@@ -109,7 +109,6 @@ I believe in **bridging technical excellence with business value**, creating rob
 
 - 📧 **Email:** maira.melo26@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/mairamelo26](https://linkedin.com/in/mairamelo26)
-- 📱 **Phone:** +55 11 911556161
 
 ---
 

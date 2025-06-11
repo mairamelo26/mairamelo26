@@ -33,35 +33,9 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **PostgreSQL, MySQL, SQL Server**
 - **MongoDB**
 
-## 💼 Professional Highlights
 
-### 🏆 **Current Role: Sr. Data Engineer @ Afya/iClinic (2024)**
-- Architecting data pipelines on Redshift with dbt orchestration
-- Managing ETL processes across medical solutions (iClinic, Whitebook)
-- Leading migration from Redshift to Databricks Delta Lake
-- Implementing AWS DMS migration solutions with Terraform
-
-### 🌟 **Recent Experience:**
-- **Sr. Cloud Engineer @ Avanade** (2024) - Multi-database support across AWS/Azure
-- **Database Migration Specialist @ INDRA Spain** (2021-2023) - DB2 Mainframe to LUW migrations
-- **International Remote Experience** - Austria, Portugal, Spain
-
-### 🏅 **IBM Legacy (2008-2016):**
-- **8 years at IBM** - from intern to Software Engineer
-- **IBM Certified Database Administrator** - DB2 9 for Linux/UNIX/Windows
-- **IBM Excellence Awards** (2013) - Teamwork and Technical Excellence
-- **Enterprise clients:** Morgan Stanley, Banco do Brasil, Superior Court of Justice
-- **PureScale expertise** - achieving 40% performance improvements
-
-## 🎯 Areas of Expertise
-
-- **Data Architecture & Modeling** (Bronze/Silver/Gold layers)
-- **Database Performance Optimization**
-- **High Availability & Disaster Recovery**
-- **Cloud Migration Strategies**
-- **DevOps & Automation**
-- **Team Leadership & Knowledge Transfer**
-- **Agile/Scrum Methodologies**
+[## 🎯 Areas of Expertise
+](https://github.com/mairamelo26/mairamelo26/blob/main/expertise.md)
 
 ## 🌱 Currently Learning
 
@@ -70,18 +44,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **ML Engineering Pipelines**
 - **Data Mesh Concepts**
 
-## 📊 Career Timeline
-
-```
-2024-Present  │ Sr. Data Engineer @ Afya/iClinic
-2024         │ Sr. Cloud Engineer @ Avanade
-2021-2023    │ Database Administrator @ INDRA (Spain)
-2019-2020    │ Database Administrator @ SOFTINSA (Portugal)
-2017-2018    │ DB2 DBA @ TIVIT Brasil
-2011-2016    │ Software Engineer @ IBM Brasil
-2009-2011    │ Database Administrator @ IBM Brasil
-2008-2009    │ DBA Intern @ IBM Brasil
-```
+[## 💼 Professional Highlights](https://github.com/mairamelo26/mairamelo26/blob/main/career.md)
 
 ## 🎓 Education & Certifications
 
@@ -95,15 +58,8 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 - **AWS Cloud Practitioner Essentials**
 - **Kepner-Tregoe Resolve**
 
-## 📈 Professional Philosophy
-
-I believe in **bridging technical excellence with business value**, creating robust, scalable solutions that drive competitive advantage. My approach combines deep technical expertise with strategic thinking, always focusing on:
-
-- 🎯 **Business-aligned solutions**
-- 📊 **Data-driven decision making**
-- 🔄 **Continuous improvement**
-- 👥 **Knowledge sharing & team growth**
-- 🛡️ **Security & reliability first**
+[## 📈 Professional Philosophy
+](https://github.com/mairamelo26/mairamelo26/blob/main/philosophy.md)
 
 ## 📫 Let's Connect!
 

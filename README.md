@@ -13,7 +13,7 @@
 - [Expertise](#-areas-of-expertise)
 - [Current Learning](#-currently-learning)
 - [Professional Highlights](#-professional-highlights)
-- [Career Timeline](#-carreer-timeline)
+- [Career Timeline](#-career-timeline)
 - [Education/Certifications](#-education--certifications)
 - [Contact](#-lets-connect)
 

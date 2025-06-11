@@ -86,7 +86,7 @@ My journey spans from **IBM-certified DB2 specialist** to **modern data engineer
 ## 🎓 Education & Certifications
 
 **Education:**
-- **Bachelor's in Information Systems** - Centro Universitário Padre Anchieta (2022-2025)
+- **Bachelor's in Data Science** - FATEC (2025-2027)
 - **Bachelor's in Information Sciences** - Anhanguera Educacional (2008-2011)
 
 **Certifications:**

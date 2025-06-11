@@ -9,7 +9,7 @@
 ## 📚 Summary
 
 - [About Me](#-about-me)
-- [Tech Stack](#-current-tech-stack)
+- [Tech Stack](#%EF%B8%8F-current-tech-stack)
 
 ## 🚀 About Me
 
